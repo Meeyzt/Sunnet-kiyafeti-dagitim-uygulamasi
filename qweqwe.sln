@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qweqwe", "qweqwe.csproj", "{8D13A094-5772-4429-8673-0A5062633102}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sitap", "..\sitap\sitap.vdproj", "{99B72371-89B2-4594-A870-577236224A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D13A094-5772-4429-8673-0A5062633102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D13A094-5772-4429-8673-0A5062633102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D13A094-5772-4429-8673-0A5062633102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D13A094-5772-4429-8673-0A5062633102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B72371-89B2-4594-A870-577236224A84}.Debug|Any CPU.ActiveCfg = Debug
+		{99B72371-89B2-4594-A870-577236224A84}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54C6FE6-4015-4125-B2E9-80622F2A6ACC}
+	EndGlobalSection
+EndGlobal
